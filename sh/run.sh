@@ -17,7 +17,7 @@ CLOUD_INIT_ISO="cloud-init.iso"
 USER_NAME="user"
 USER_PASS="1234"
 ROOT_PASS="1234"
-HOST_NAME="duychungict4"
+HOST_NAME="duychungict5"
 
 # Google Sheets URL
 SHEET_URL="https://opensheet.elk.sh/1JZaVEZe1OquBwIFGUc1H1rD24T3Er4fqdcTXie4pj-8/trang"
